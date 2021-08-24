@@ -32,9 +32,11 @@ Produzir uma solução tecnológica que auxilie um microempreendor do setor de d
 - CSS 
 
 
-# Autor
+# Dados Acadêmicos
 
-Lucas Francisco Rodrigues e Silva.
+Nome: Lucas Francisco Rodrigues e Silva
+
+RA: 20068772-5
 
 Andradina-SP.
 
